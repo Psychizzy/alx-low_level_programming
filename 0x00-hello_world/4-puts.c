@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <stdio.hi>
 /**
- *  main -print a line of code using puts
+ *  main - print a line of code using puts
  *
  *  Return: Always 0 (Success)
  */
